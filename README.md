@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @RohanPhaff
-- 👀 I’m interested in space and programs
-- 🌱 I’m currently learning webdevelopment / php + javascript
-- 💞️ I’m looking to collaborate on X
-- 📫 How to reach me 2505rohan@gmail.com is my personal email
-
-<!---
-RohanPhaff/RohanPhaff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, this is the github page of Rohán Phaff
+I am currently a student at HZ University of Applied Science in Middelburg, the Netherlands, doing my ICT-Bachelor
+I'm currently in my third year, doing minor, and looking for an internship
+If you have any questions feel free to contact me on my personal email: 2505rohan@gmail.com, or my phone: 06 40085833
